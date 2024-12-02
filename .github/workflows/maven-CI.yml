@@ -11,7 +11,7 @@ jobs:
 
     steps:
 
-      - name: Hacemos Checkuot del repo de Git
+      - name: Hacemos Checkuot del repo de Gitr
         uses: actions/checkout@v2
 
       - name: Set up JDK 8
